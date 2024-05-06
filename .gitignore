@@ -1,0 +1,40 @@
+/tests/test_data/*
+
+# Python specific
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+*.pyi
+*.pyz
+*.pyw
+*.pyz/
+*.pyw/
+*.egg-info/
+dist/
+build/
+*.egg
+*.whl
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+.venv*/
+
+# IDE specific
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
+
+# vscode
+.vscode/
+
+# MacOS
+.DS_Store
